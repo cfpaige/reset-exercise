@@ -1,2 +1,3 @@
-# resetExercise
-class 3
+## Reset Exercise ##
+
+In-class style exercise using reset.css.
